@@ -124,60 +124,62 @@ if (productCount.count === 0) {
     ["Running Shoes", "Fashion & Apparel", 4999, 3799, "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80", 40],
 
     // Home & Furniture
-    ["Ergonomic Office Chair", "Home & Furniture", 18500, 15000, "https://images-eu.ssl-images-amazon.com/images/I/71hv7GczmZL._AC_SL1500_.jpg", 15],
-    ["Modern Coffee Table", "Home & Furniture", 9999, 7500, "https://images-eu.ssl-images-amazon.com/images/I/71kEBCjRRrL._SL1500_.jpg", 10],
-    ["King Size Bed", "Home & Furniture", 48000, 42000, "https://images-eu.ssl-images-amazon.com/images/I/71nCMBJOxNL._SL1500_.jpg", 5],
-    ["3-Seater Sofa", "Home & Furniture", 25000, 21000, "https://images-eu.ssl-images-amazon.com/images/I/81Rg-wCFHJL._SL1500_.jpg", 7],
-    ["Dining Table Set", "Home & Furniture", 35000, 30000, "https://images-eu.ssl-images-amazon.com/images/I/71iyJ0JRSSL._SL1500_.jpg", 4],
+    ["Office Chair", "Home & Furniture", 18500, 15000, "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80", 15],
+    ["Coffee Table", "Home & Furniture", 9999, 7500, "https://images.unsplash.com/photo-1616628182504-4a3a0c58a3a1?w=800&q=80", 10],
+    ["King Size Bed", "Home & Furniture", 48000, 42000, "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&q=80", 5],
+    ["3-Seater Sofa", "Home & Furniture", 25000, 21000, "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80", 7],
+    ["Dining Table", "Home & Furniture", 35000, 30000, "https://images.unsplash.com/photo-1615874959474-d609969a20ed?w=800&q=80", 4],
 
     // Beauty & Personal Care
-    ["Face Serum (Vitamin C)", "Beauty & Personal Care", 899, 650, "https://images-eu.ssl-images-amazon.com/images/I/61OpvPRMR5L._SL1500_.jpg", 100],
-    ["Electric Toothbrush", "Beauty & Personal Care", 3499, 2800, "https://images-eu.ssl-images-amazon.com/images/I/61FJbRMqpkL._SL1500_.jpg", 45],
-    ["Hair Dryer", "Beauty & Personal Care", 2999, 2200, "https://images-eu.ssl-images-amazon.com/images/I/41CfkCDC56L._SL1500_.jpg", 35],
-    ["Beard Trimmer", "Beauty & Personal Care", 1899, 1400, "https://images-eu.ssl-images-amazon.com/images/I/61xTXEq4OcL._SL1500_.jpg", 60],
-    ["Luxury Perfume", "Beauty & Personal Care", 4500, 3800, "https://images-eu.ssl-images-amazon.com/images/I/51jfqOKEFHL._SL1500_.jpg", 25],
-
+    ["Vitamin C Serum", "Beauty & Personal Care", 899, 650, "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?w=800&q=80", 100],
+    ["Electric Toothbrush", "Beauty & Personal Care", 3499, 2800, "https://images.unsplash.com/photo-1588776814546-ec7e9f8c9c1c?w=800&q=80", 45],
+    ["Hair Dryer", "Beauty & Personal Care", 2999, 2200, "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800&q=80", 35],
+    ["Beard Trimmer", "Beauty & Personal Care", 1899, 1400, "https://images.unsplash.com/photo-1589987607627-09f3b0c5c52d?w=800&q=80", 60],
+    ["Luxury Perfume", "Beauty & Personal Care", 4500, 3800, "https://images.unsplash.com/photo-1585386959984-a4155223f1b6?w=800&q=80", 25],
     // Grocery & Food
-    ["Organic Basmati Rice 5kg", "Grocery & Food", 950, 850, "https://images-eu.ssl-images-amazon.com/images/I/81KZfzjKcEL._SL1500_.jpg", 200],
-    ["Dark Chocolate Gift Box", "Grocery & Food", 1499, 1200, "https://images-eu.ssl-images-amazon.com/images/I/81BF-4ORDAL._SL1500_.jpg", 80],
-    ["Cold Pressed Olive Oil 1L", "Grocery & Food", 1200, 1000, "https://images-eu.ssl-images-amazon.com/images/I/71XynHPGJQL._SL1500_.jpg", 50],
-    ["Premium Tea Leaves 500g", "Grocery & Food", 450, 380, "https://images-eu.ssl-images-amazon.com/images/I/81BFIBPkCWL._SL1500_.jpg", 150],
-    ["Instant Coffee Jar 200g", "Grocery & Food", 650, 550, "https://images-eu.ssl-images-amazon.com/images/I/81EGBtHMIeL._SL1500_.jpg", 120],
+
+    ["Basmati Rice", "Grocery & Food", 950, 850, "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=800&q=80", 200],
+    ["Dark Chocolate", "Grocery & Food", 1499, 1200, "https://images.unsplash.com/photo-1606312619070-d48b4c652a52?w=800&q=80", 80],
+    ["Olive Oil", "Grocery & Food", 1200, 1000, "https://images.unsplash.com/photo-1603048719535-9ecb7a7f02d5?w=800&q=80", 50],
+    ["Tea Leaves", "Grocery & Food", 450, 380, "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=800&q=80", 150],
+    ["Coffee Jar", "Grocery & Food", 650, 550, "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&q=80", 120],
 
     // Sports & Outdoors
-    ["Yoga Mat (Extra Thick)", "Sports & Outdoors", 1999, 1400, "https://images-eu.ssl-images-amazon.com/images/I/71CkLLSrFQL._SL1500_.jpg", 40],
-    ["Badminton Racket Set", "Sports & Outdoors", 4500, 3500, "https://images-eu.ssl-images-amazon.com/images/I/71BHFWpn9QL._SL1500_.jpg", 25],
-    ["Adjustable Dumbbells 20kg", "Sports & Outdoors", 8500, 7200, "https://images-eu.ssl-images-amazon.com/images/I/71GRNjMq4jL._SL1500_.jpg", 15],
-    ["Camping Tent (4-Person)", "Sports & Outdoors", 5500, 4500, "https://images-eu.ssl-images-amazon.com/images/I/81TAvIOVmgL._SL1500_.jpg", 10],
-    ["Cricket Bat (English Willow)", "Sports & Outdoors", 12000, 10000, "https://images-eu.ssl-images-amazon.com/images/I/51Lqz5yEiAL._SL1500_.jpg", 8],
+    ["Yoga Mat", "Sports & Outdoors", 1999, 1400, "https://images.unsplash.com/photo-1599447292412-0c3d8c7b8b1c?w=800&q=80", 40],
+    ["Badminton Racket", "Sports & Outdoors", 4500, 3500, "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?w=800&q=80", 25],
+    ["Dumbbells", "Sports & Outdoors", 8500, 7200, "https://images.unsplash.com/photo-1599058917765-a780eda07a3e?w=800&q=80", 15],
+    ["Camping Tent", "Sports & Outdoors", 5500, 4500, "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&q=80", 10],
+    ["Cricket Bat", "Sports & Outdoors", 12000, 10000, "https://images.unsplash.com/photo-1593341646782-e0b495cff86d?w=800&q=80", 8],
 
     // Toys & Baby Products
-    ["LEGO Star Wars Set", "Toys & Baby Products", 7999, 6500, "https://www.lego.com/cdn/cs/set/assets/blt0567f28c0a736dae/75375.jpg?fit=bounds&format=webply&quality=80&width=800&height=600&dpr=1", 12],
-    ["Baby Stroller", "Toys & Baby Products", 14500, 12000, "https://images-eu.ssl-images-amazon.com/images/I/61dfUqJnkGL._SL1500_.jpg", 6],
-    ["Remote Control Car", "Toys & Baby Products", 2499, 1800, "https://images-eu.ssl-images-amazon.com/images/I/71Swqqe7XAL._SL1500_.jpg", 25],
-    ["Educational Tablet for Kids", "Toys & Baby Products", 4500, 3800, "https://images-eu.ssl-images-amazon.com/images/I/71DP-HBCL0L._SL1500_.jpg", 15],
-    ["Soft Plush Bear (Large)", "Toys & Baby Products", 1200, 900, "https://images-eu.ssl-images-amazon.com/images/I/71YKCb21YKL._SL1500_.jpg", 50],
+    ["LEGO Set", "Toys & Baby Products", 7999, 6500, "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=800&q=80", 12],
+    ["Baby Stroller", "Toys & Baby Products", 14500, 12000, "https://images.unsplash.com/photo-1604917018617-5b3f6bdf6b7c?w=800&q=80", 6],
+    ["Remote Control Car", "Toys & Baby Products", 2499, 1800, "https://images.unsplash.com/photo-1594787318286-3d835c1d207f?w=800&q=80", 25],
+    ["Kids Learning Tablet", "Toys & Baby Products", 4500, 3800, "https://images.unsplash.com/photo-1588072432836-e10032774350?w=800&q=80", 15],
+    ["Soft Plush Toy", "Toys & Baby Products", 1200, 900, "https://images.unsplash.com/photo-1601758125946-6ec2ef64daf8?w=800&q=80", 50],
+
 
     // Books, Music & Movies
-    ["The Alchemist (Hardcover)", "Books, Music & Movies", 599, 450, "https://images-eu.ssl-images-amazon.com/images/I/71aFt4+OTOL._SL1500_.jpg", 100],
-    ["Vinyl Record Player", "Books, Music & Movies", 18500, 15000, "https://images-eu.ssl-images-amazon.com/images/I/71TXb+PZNZL._SL1500_.jpg", 10],
-    ["Acoustic Guitar", "Books, Music & Movies", 8500, 7000, "https://images-eu.ssl-images-amazon.com/images/I/81FQxEG+5sL._SL1500_.jpg", 15],
-    ["Harry Potter Box Set", "Books, Music & Movies", 3500, 2800, "https://images-eu.ssl-images-amazon.com/images/I/71IQ9HjIiGL._SL1500_.jpg", 20],
-    ["Wireless Bluetooth Speaker", "Books, Music & Movies", 5999, 4800, "https://images-eu.ssl-images-amazon.com/images/I/71JB6hM6Z6L._SL1500_.jpg", 40],
+    ["The Alchemist Book", "Books, Music & Movies", 599, 450, "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=800&q=80", 100],
+    ["Record Player", "Books, Music & Movies", 18500, 15000, "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=800&q=80", 10],
+    ["Acoustic Guitar", "Books, Music & Movies", 8500, 7000, "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=800&q=80", 15],
+    ["Book Collection Set", "Books, Music & Movies", 3500, 2800, "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=800&q=80", 20],
+    ["Bluetooth Speaker", "Books, Music & Movies", 5999, 4800, "https://images.unsplash.com/photo-1585386959984-a4155223f1b6?w=800&q=80", 40],
 
     // Automotive & Tools
-    ["Car Vacuum Cleaner", "Automotive & Tools", 2999, 2200, "https://images-eu.ssl-images-amazon.com/images/I/71vB8TF9CLL._SL1500_.jpg", 30],
-    ["Socket Wrench Set", "Automotive & Tools", 4500, 3800, "https://images-eu.ssl-images-amazon.com/images/I/81f5j8eTKcL._SL1500_.jpg", 20],
-    ["Portable Tire Inflator", "Automotive & Tools", 3200, 2600, "https://images-eu.ssl-images-amazon.com/images/I/71JWnA7BPJL._SL1500_.jpg", 25],
-    ["Car Dash Cam (4K)", "Automotive & Tools", 7500, 6200, "https://images-eu.ssl-images-amazon.com/images/I/71A4QJbwPeL._SL1500_.jpg", 15],
-    ["Pressure Washer", "Automotive & Tools", 9500, 8000, "https://images-eu.ssl-images-amazon.com/images/I/71xo0sJSuML._SL1500_.jpg", 10],
+    ["Car Vacuum Cleaner", "Automotive & Tools", 2999, 2200, "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&q=80", 30],
+    ["Wrench Tool Set", "Automotive & Tools", 4500, 3800, "https://images.unsplash.com/photo-1581090700227-1e8b6c9bba0b?w=800&q=80", 20],
+    ["Tire Inflator", "Automotive & Tools", 3200, 2600, "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=800&q=80", 25],
+    ["Car Dash Camera", "Automotive & Tools", 7500, 6200, "https://images.unsplash.com/photo-1518306727298-4c17e1bf6949?w=800&q=80", 15],
+    ["Pressure Washer", "Automotive & Tools", 9500, 8000, "https://images.unsplash.com/photo-1605000797499-95a51c5269ae?w=800&q=80", 10],
 
     // Health & Wellness
-    ["Multivitamin Tablets", "Health & Wellness", 1299, 950, "https://images-eu.ssl-images-amazon.com/images/I/71arPMQMsFL._SL1500_.jpg", 150],
-    ["Digital Blood Pressure Monitor", "Health & Wellness", 3499, 2900, "https://images-eu.ssl-images-amazon.com/images/I/61rKBwLDmCL._SL1500_.jpg", 40],
-    ["Smart Fitness Band", "Health & Wellness", 2499, 1900, "https://images-eu.ssl-images-amazon.com/images/I/61IwlnEdhuL._SL1500_.jpg", 60],
-    ["Electric Massager Gun", "Health & Wellness", 4500, 3800, "https://images-eu.ssl-images-amazon.com/images/I/61YiS3LKHGL._SL1500_.jpg", 25],
-    ["Air Purifier (HEPA Filter)", "Health & Wellness", 12500, 10500, "https://images-eu.ssl-images-amazon.com/images/I/61tDS1LqpPL._SL1500_.jpg", 12],
+    ["Multivitamin Tablets", "Health & Wellness", 1299, 950, "https://images.unsplash.com/photo-1584362917165-526a968579e8?w=800&q=80", 150],
+    ["BP Monitor", "Health & Wellness", 3499, 2900, "https://images.unsplash.com/photo-1580281657521-3a3e0f3f9c75?w=800&q=80", 40],
+    ["Fitness Band", "Health & Wellness", 2499, 1900, "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=800&q=80", 60],
+    ["Massage Gun", "Health & Wellness", 4500, 3800, "https://images.unsplash.com/photo-1599058917765-a780eda07a3e?w=800&q=80", 25],
+    ["Air Purifier", "Health & Wellness", 12500, 10500, "https://images.unsplash.com/photo-1581579185169-67b0c1f5d1c3?w=800&q=80", 12],
+
   ];
   const stmt = db.prepare("INSERT INTO products (name, category, base_price, min_price, image_url, stock_count, seller_id) VALUES (?, ?, ?, ?, ?, ?, ?)");
   products.forEach((p, index) => {
