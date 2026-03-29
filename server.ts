@@ -117,11 +117,11 @@ if (productCount.count === 0) {
     ["iPad Pro M4", "Electronics & Gadgets", 88900, 85500, "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800", 5],
 
     // Fashion & Apparel
-    ["Cotton Slim Fit Shirt", "Fashion & Apparel", 2499, 1800, "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11827188/2020/10/20/8a5e7b72-a7ac-41ab-8d03-7b53ab6b95871603183988411-H-M-Men-Shirts-311603183987820-1.jpg", 50],
-    ["Leather Boots", "Fashion & Apparel", 5999, 4500, "https://i5.walmartimages.com/asr/d20ccd58-cecf-42f1-9bca-efff2d39a377_1.75bba93ab7bddc5b38b6e832a75a932d.jpeg", 20],
-    ["Silk Saree", "Fashion & Apparel", 12500, 9500, "https://i.pinimg.com/originals/3e/95/5b/3e955b7ec299bf97064512dc0613ead2.jpg", 10],
-    ["Denim Jacket", "Fashion & Apparel", 3499, 2800, "https://media.landmarkshops.in/cdn-cgi/image/h=831,w=615,q=85,fit=cover/max-new/1000015927390-Blue-MIDBLUE-1000015927390_01-2100.jpg", 30],
-    ["Running Shoes", "Fashion & Apparel", 4999, 3800, "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_Light_Running_Shoes_Black_HQ6351_01_standard.jpg", 40],
+    ["Cotton Slim Fit Shirt", "Fashion & Apparel", 2499, 1799, "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&q=80", 50],
+    ["Leather Boots", "Fashion & Apparel", 5999, 4599, "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=800&q=80", 20],
+    ["Silk Saree", "Fashion & Apparel", 12500, 9200, "https://images.unsplash.com/photo-1610030469668-8f9c7cba0f2c?w=800&q=80", 10],
+    ["Denim Jacket", "Fashion & Apparel", 3499, 2699, "https://images.unsplash.com/photo-1520975922284-9c4f9d2b8f36?w=800&q=80", 30],
+    ["Running Shoes", "Fashion & Apparel", 4999, 3799, "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80", 40],
 
     // Home & Furniture
     ["Ergonomic Office Chair", "Home & Furniture", 18500, 15000, "https://images-eu.ssl-images-amazon.com/images/I/71hv7GczmZL._AC_SL1500_.jpg", 15],
